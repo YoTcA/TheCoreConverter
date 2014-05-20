@@ -132,17 +132,17 @@ CameraSave1=Alt+R
 CameraSave2=Alt+D
 CameraSave3=Alt+F
 CameraSave4=Alt+4
-CameraSave5=Alt+5
-CameraSave6=Alt+3
-CameraSave7=Alt+T
+CameraSave5=Alt+5,Control+1
+CameraSave6=Alt+3,Control+Q
+CameraSave7=Alt+T,Control+A
 CameraView0=Shift+E
 CameraView1=Shift+R
 CameraView2=Shift+D
 CameraView3=Shift+F
 CameraView4=Shift+4
-CameraView5=Shift+5
-CameraView6=Shift+3
-CameraView7=Shift+T
+CameraView5=Shift+5,Control+2
+CameraView6=Shift+3,Control+W
+CameraView7=Shift+T,Control+S
 
 [Commands]
 250mmStrikeCannons/Thor=E
